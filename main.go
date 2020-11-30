@@ -28,9 +28,9 @@ func Color(colorString string) func(...interface{}) string {
 }
 
 func main() {
-	fmt.Println(Info("hello, world!"))
-	fmt.Println(Warn("hello, world!"))
-	fmt.Println(Fata("hello, world!"))
+	fmt.Println(Info("hello, Info world!"))
+	fmt.Println(Warn("hello, Warn world!"))
+	fmt.Println(Fata("hello, Fatal world!"))
 
 	fmt.Println(Black("hello, Black world!"))
 	fmt.Println(Red("hello, Red world!"))
