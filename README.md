@@ -1,19 +1,34 @@
 
  <h2 align="center">Examples of using color in Go</h2>
 
+<br/>
+&nbsp;
 
 <p align="center">
  <img width="600px" src="https://github.com/coding-to-music/goColorsTests/blob/main/go-run-main.png?raw=true" align="center" alt="Using Colors in Go" />
  
 
+&nbsp;
+&nbsp;
+<br/>
+<br/>
 Source of the code is [HERE](https://gist.github.com/ik5/d8ecde700972d4378d87)
+<br/>
 
+&nbsp;
 
 Good article about using Color in golang [HERE](https://twinnation.org/articles/35/how-to-add-colors-to-your-console-terminal-output-in-go)
 
+Simon Tony wrote a Medium article [Terminal color render by Golang](https://medium.com/@inhereat/terminal-color-rendering-tool-library-support-8-16-colors-256-colors-by-golang-a68fb8deee86)
+
+
+&nbsp;
+
+<br/>
 <p align="center">
  <img width="600px" src="https://github.com/coding-to-music/goColorsTests/blob/main/twinnation-go-colors.png?raw=true" align="center" alt="Using Colors in Go" />
-
+<br/>
+&nbsp;
 
 ## Define like this:
 ```bash
@@ -61,11 +76,18 @@ func main() {
     fmt.Println(color.Gray + "This is Gray" + color.Reset)
 }
 ```
-
+&nbsp;
+<br/>
 <p align="center">
  <img width="600px" src="https://github.com/coding-to-music/goColorsTests/blob/main/fatih-color.jpg?raw=true" align="center" alt="" />
  
  
-Go fatih/color Package docs are [HERE](https://github.com/fatih/color)
+Go fatih/color Package docs are [HERE](https://github.com/fatih/color)<br/>
 
+<p align="center">
+ <img width="600px" src="https://github.com/coding-to-music/goColorsTests/blob/main/simonTonyMedium.png?raw=true" align="center" alt="" />
+
+ <br/>
+&nbsp;
+Simon Tony wrote a Medium article [Terminal color render by Golang](https://medium.com/@inhereat/terminal-color-rendering-tool-library-support-8-16-colors-256-colors-by-golang-a68fb8deee86)
 
