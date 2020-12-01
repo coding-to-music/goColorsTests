@@ -28,6 +28,8 @@ func Color(colorString string) func(...interface{}) string {
 }
 
 func main() {
+	fmt.Println(Info("Invoke with go run main.go"))
+
 	fmt.Println(Info("hello, Info world!"))
 	fmt.Println(Warn("hello, Warn world!"))
 	fmt.Println(Fata("hello, Fatal world!"))
@@ -38,6 +40,7 @@ func main() {
 	fmt.Println(Yellow("hello, Yellow world!"))
 	fmt.Println(Purple("hello, Purple world!"))
 	fmt.Println(Magenta("hello, Magenta world!"))
-	fmt.Println(Teal("hello, Teal world!"))
 	fmt.Println(White("hello, White world!"))
+	fmt.Println(Teal("hello, Teal world!"))
+	fmt.Println(Green("hello, Green need Blue world!"))
 }
