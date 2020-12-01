@@ -63,7 +63,7 @@ func main() {
 ```
 
 <p align="center">
- <img width="600px" src="https://user-images.githubusercontent.com/438920/96832689-03b3e000-13f4-11eb-9803-46f4c4de3406.jpg" align="center" alt="" />
+ <img width="600px" src="https://github.com/coding-to-music/goColorsTests/blob/main/fatih-color.png?raw=true" align="center" alt="" />
  
  
 Go fatih/color Package docs are [HERE](https://github.com/coding-to-music/goColorsTests/blob/main/fatih-color.jpg?raw=true)
