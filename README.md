@@ -63,9 +63,9 @@ func main() {
 ```
 
 <p align="center">
- <img width="600px" src="https://github.com/coding-to-music/goColorsTests/blob/main/fatih-color.png?raw=true" align="center" alt="" />
+ <img width="600px" src="https://github.com/coding-to-music/goColorsTests/blob/main/fatih-color.jpg?raw=true" align="center" alt="" />
  
  
-Go fatih/color Package docs are [HERE](https://github.com/coding-to-music/goColorsTests/blob/main/fatih-color.jpg?raw=true)
+Go fatih/color Package docs are [HERE](https://github.com/fatih/color)
 
 
