@@ -3,8 +3,7 @@
 
 
 <p align="center">
- <img width="600px" src="https://github.com/coding-to-music/goColorsTests/blob/main/go-run-main.png?raw=true" align="center" alt="GitHub Readme Stats" />
- 
+ <img width="600px" src="https://github.com/coding-to-music/goColorsTests/blob/main/go-run-main.png?raw=true" align="center" alt="Using Colors in Go" />
  
 
 Source of the code is [HERE](https://gist.github.com/ik5/d8ecde700972d4378d87)
@@ -13,8 +12,7 @@ Source of the code is [HERE](https://gist.github.com/ik5/d8ecde700972d4378d87)
 Good article about using Color in golang [HERE](https://twinnation.org/articles/35/how-to-add-colors-to-your-console-terminal-output-in-go)
 
 <p align="center">
- <img width="600px" src="https://github.com/coding-to-music/goColorsTests/blob/main/twinnation-go-colors
-.png?raw=true" align="center" alt="GitHub Readme Stats" />
+ <img width="600px" src="https://github.com/coding-to-music/goColorsTests/blob/main/twinnation-go-colors.png?raw=true" align="center" alt="Using Colors in Go" />
 
 
 ## Define like this:
