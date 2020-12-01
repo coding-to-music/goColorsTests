@@ -85,9 +85,14 @@ func main() {
 Go fatih/color Package docs are [HERE](https://github.com/fatih/color)<br/>
 
 <p align="center">
- <img width="600px" src="https://github.com/coding-to-music/goColorsTests/blob/main/simonTonyMedium.png?raw=true" align="center" alt="" />
+ <img width="600px" src="https://github.com/coding-to-music/goColorsTests/blob/main/SimonTonyMedium.png?raw=true" align="center" alt="" />
+
 
  <br/>
 &nbsp;
+
 Simon Tony wrote a Medium article [Terminal color render by Golang](https://medium.com/@inhereat/terminal-color-rendering-tool-library-support-8-16-colors-256-colors-by-golang-a68fb8deee86)
+
+<p align="center">
+ <img width="600px" src="https://github.com/coding-to-music/goColorsTests/blob/main/SimonTonyColors2.jpg?raw=true" align="center" alt="" />
 
